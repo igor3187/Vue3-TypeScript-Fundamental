@@ -1,0 +1,1 @@
+export type TFilterStatusType = 'All' | 'Active' | 'Done';
